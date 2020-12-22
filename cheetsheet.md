@@ -348,6 +348,22 @@ https://github.com/sindresorhus/globby // matching your files extenstion witen i
 https://github.com/isaacs/node-glob#readme // matching your files extenstion
 https://github.com/xavdid/typed-install#readme // install Types for every package u add it 
 https://github.com/npm/node-semver#readme // parser for node related with version number
+https://github.com/terkelg/prompts#readme//Lightweight, beautiful and user-friendly interactive prompts
+https://github.com/yeoman/update-notifier#readme//Update notifications for your CLI app
+https://github.com/mattallty/Caporal.js? //A full-featured framework for building command line applications (cli) with node.js
+https://github.com/chalk/chalk#readme // with it  your 🖍 Terminal string styling done right
+https://github.com/sindresorhus/ora#readme // elegent termial spinner 
+https://github.com/jprichardson/node-fs-extra //Node.js: extra methods for the fs object like copy(), remove(), mkdirs() replace for mkdirp, rimraf, and ncp in your project
+
+
+
+
+
+
+
+
+
+
 
 
 ## Cli examples project
