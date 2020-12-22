@@ -332,6 +332,19 @@ spawn.sync(['install', prefixFlag, optionalDir], { stdio: 'inherit' })
 
 - https://github.com/bcoe/awesome-cross-platform-nodejs
 
+
 ## Beginner Tutorials
 
 - https://www.twilio.com/blog/how-to-build-a-cli-with-node-js
+
+## other useful packages 
+https://github.com/oclif/oclif  for creating Cli and one of the best 
+https://github.com/doczjs/docz for document your Cli
+
+
+## Cli examples project
+https://github.com/CodingGarden/now-config // from cj code livestream
+https://github.com/CodingGarden/deploy-with-now-v2 -> Now 2 is cli that helps u to deploy your project easily
+
+
+
