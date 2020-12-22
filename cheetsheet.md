@@ -346,7 +346,8 @@ https://github.com/AvianFlu/ncp // copy entire path syncrously
 https://github.com/benawad/tsconfig.json //make all configration for TS
 https://github.com/sindresorhus/globby // matching your files extenstion witen in js and ts
 https://github.com/isaacs/node-glob#readme // matching your files extenstion
-
+https://github.com/xavdid/typed-install#readme // install Types for every package u add it 
+https://github.com/npm/node-semver#readme // parser for node related with version number
 
 
 ## Cli examples project
@@ -364,6 +365,9 @@ https://github.com/isaacs/node-glob#readme // matching your files extenstion
 
 ##stack over flow 
 -https://stackoverflow.com/questions/25460574/find-files-by-extension-html-under-a-folder-in-nodejs
+https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json
+
+
 
 ##ready-to-use template 
 https://github.com/reduxjs/cra-template-redux-typescript for type scritpe 
