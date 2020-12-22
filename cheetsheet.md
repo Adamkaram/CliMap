@@ -342,6 +342,10 @@ https://github.com/oclif/oclif  for creating Cli and one of the best
 https://github.com/doczjs/docz for document your Cli
 https://github.com/SBoudrias/Inquirer.js // for prompet question and make actions based on answers
 https://github.com/sindresorhus/latest-version#readme helping u to detect last version of specific package
+https://github.com/AvianFlu/ncp // copy entire path syncrously
+https://github.com/benawad/tsconfig.json //make all configration for TS
+https://github.com/sindresorhus/globby // matching your files extenstion witen in js and ts
+https://github.com/isaacs/node-glob#readme // matching your files extenstion
 
 
 
