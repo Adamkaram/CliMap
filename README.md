@@ -1,4 +1,4 @@
-# CloMap
+# CliMap
 cheatsheet for creating cli 
 
 # cli-cheatsheet
