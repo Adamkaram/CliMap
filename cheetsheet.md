@@ -340,11 +340,31 @@ spawn.sync(['install', prefixFlag, optionalDir], { stdio: 'inherit' })
 ## other useful packages 
 https://github.com/oclif/oclif  for creating Cli and one of the best 
 https://github.com/doczjs/docz for document your Cli
+https://github.com/SBoudrias/Inquirer.js // for prompet question and make actions based on answers
+https://github.com/sindresorhus/latest-version#readme helping u to detect last version of specific package
+
 
 
 ## Cli examples project
-https://github.com/CodingGarden/now-config // from cj code livestream
-https://github.com/CodingGarden/deploy-with-now-v2 -> Now 2 is cli that helps u to deploy your project easily
+-https://github.com/CodingGarden/now-config // from cj code livestream
+-https://github.com/CodingGarden/deploy-with-now-v2 -> Now 2 is cli that helps u to deploy your project easily
+-https://github.com/formium/tsdx //Zero-config CLI for TypeScript package development
+-https://github.com/eyousefifar/aba-cli // Cli for Remove Add update  your packages 
+-https://github.com/bradtraversy/customer-cli // from travers Media Cli for CRUD operation with monogo to CRUD your data 
+-https://github.com/npm/init-package-json // similar to init npm it's based in https://github.com/npm/promzard
+-https://github.com/isaacs/node-glob#readme for matching your file extesion 
+-https://github.com/CodingGarden/now-config // Cli from Cj Code 
+-https://github.com/CodingGarden/deploy-with-now-v2 // Cli to helping you in deploy stuff
+-https://github.com/sindresorhus/latest-version-cli // helping u to detect last version of specific package CLi
+
+
+##stack over flow 
+-https://stackoverflow.com/questions/25460574/find-files-by-extension-html-under-a-folder-in-nodejs
+
+##ready-to-use template 
+https://github.com/reduxjs/cra-template-redux-typescript for type scritpe 
+https://github.com/reduxjs/cra-template-redux Normal java script
+https://github.com/OGNeutron/ReactTemplate React template
 
 
 
