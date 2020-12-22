@@ -339,6 +339,7 @@ spawn.sync(['install', prefixFlag, optionalDir], { stdio: 'inherit' })
 
 ## other useful packages 
 https://github.com/oclif/oclif  for creating Cli and one of the best 
+https://github.com/oclif/cli-ux //for creating oclif cli in best user exproence
 https://github.com/doczjs/docz for document your Cli
 https://github.com/SBoudrias/Inquirer.js // for prompet question and make actions based on answers
 https://github.com/sindresorhus/latest-version#readme helping u to detect last version of specific package
@@ -354,9 +355,11 @@ https://github.com/mattallty/Caporal.js? //A full-featured framework for buildin
 https://github.com/chalk/chalk#readme // with it  your 🖍 Terminal string styling done right
 https://github.com/sindresorhus/ora#readme // elegent termial spinner 
 https://github.com/jprichardson/node-fs-extra //Node.js: extra methods for the fs object like copy(), remove(), mkdirs() replace for mkdirp, rimraf, and ncp in your project
-
-
-
+https://github.com/patorjk/figlet.js#readme //A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec. 
+This tool helps you to build command line tools without worring to parse arguments, or develop the logic to ask them
+https://github.com/tj/commander.js/#avoiding-option-name-clashes // node.js command-line interfaces 
+https://github.com/yargs/yargs//Yargs helps you build interactive command line tools, by parsing arguments and generating an elegant user interface.
+https://github.com/nanovazquez/yargs-interactive Interactive (prompt) support for yargs, based on inquirer. Useful for using the same CLI for both for humans and non-humans (like CI tools). Also supports mixed mode (yay!).
 
 
 
@@ -377,7 +380,7 @@ https://github.com/jprichardson/node-fs-extra //Node.js: extra methods for the f
 -https://github.com/CodingGarden/now-config // Cli from Cj Code 
 -https://github.com/CodingGarden/deploy-with-now-v2 // Cli to helping you in deploy stuff
 -https://github.com/sindresorhus/latest-version-cli // helping u to detect last version of specific package CLi
-
+https://github.com/divshot/yay Generate random, ridiculous names for anything. Yay!
 
 ##stack over flow 
 -https://stackoverflow.com/questions/25460574/find-files-by-extension-html-under-a-folder-in-nodejs
